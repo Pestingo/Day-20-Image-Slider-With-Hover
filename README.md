@@ -8,12 +8,9 @@
 
 🌈 Styling Options: Customize colors, shadows, and borders for uniqueness.
 
-You-Tube Tutorial - https://youtu.be/cFodj1UY4uw
 
-Free 100 Websites with Source Code 👇
+Output - 1 
+![Uploading image.png…]()
 
-https://quantumcoding.in/
-
-Output - 1
 
 
